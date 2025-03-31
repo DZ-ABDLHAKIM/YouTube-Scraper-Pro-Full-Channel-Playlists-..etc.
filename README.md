@@ -181,9 +181,10 @@ Transform video content into:
 
 For assistance or custom implementations:
 
-- Email: [support@youtubetranscriptor.com](mailto:support@youtubetranscriptor.com)
-- GitHub: [github.com/youtube-transcript-extractor](https://github.com/youtube-transcript-extractor)
-
+- Email: [fridaytechnolog@gmail.com](mailto:fridaytechnolog@gmail.com)  
+- GitHub: [https://github.com/DZ-ABDLHAKIM](https://github.com/DZ-ABDLHAKIM)  
+- Twitter: [https://x.com/DZ_45Omar](https://x.com/DZ_45Omar)
+- Apify: [https://apify.com/dz_omar](https://apify.com/dz_omar)
 ---
 
 ## 📚 Quick Start Guide for Non-Technical Users
