@@ -1,7 +1,6 @@
 # 🎬 YouTube Transcript Smart Extractor Pro
 
 [YouTube Transcript Pro](https://apify.com/dz_omar/youtube-transcript-pro) Extracts transcripts and metadata from ALL YouTube content: Videos, Shorts, Live streams, Podcasts, Courses, and full Channels. Processes playlists and batch requests. Proxy required. Perfect for researchers, marketers, and content creators.
-https://apify.com/dz_omar/youtube-transcript-pro
 ## 🚀 The Intelligent Way to Extract YouTube Content
 
 **Extract comprehensive transcripts with rich metadata in seconds** - our advanced tool automatically detects and processes any YouTube URL type. Simply paste a link and get perfectly structured results.
