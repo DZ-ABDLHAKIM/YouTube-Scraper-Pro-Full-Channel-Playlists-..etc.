@@ -41,7 +41,6 @@ sequenceDiagram
     YouTube-->>Tool: Return content type
     Tool->>YouTube: Extract metadata & transcripts
     Tool->>User: Return structured data
-```H --> I[Return Structured Data]
 ```
 
 ## 🔧 Input Configuration
