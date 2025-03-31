@@ -5,7 +5,7 @@ YouTube Transcript Pro Extracts transcripts and metadata from ALL YouTube conten
 
 **Extract comprehensive transcripts with rich metadata in seconds** - our advanced tool automatically detects and processes any YouTube URL type. Simply paste a link and get perfectly structured results.
 
-![YouTube Transcript Extractor - Image coming soon](https://photos.app.goo.gl/DvNzCSWtSe33H8rd6)
+![YouTube Transcript Extractor](https://raw.githubusercontent.com/DZ-ABDLHAKIM/YouTube-Transcript-Pro-Full-Channel-Playlists-..etc./refs/heads/main/Untitled.png)
 
 ## ✨ What Makes This Actor Unique
 
