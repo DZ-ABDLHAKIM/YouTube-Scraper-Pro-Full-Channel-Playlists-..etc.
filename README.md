@@ -88,13 +88,16 @@ Our tool understands what you want based on URL patterns:
 | `youtube.com/@channelname` | All videos from the channel |
 | `youtube.com/@channelname/shorts` | Only shorts from the channel |
 | `youtube.com/@channelname/courses` | Only course videos from the channel |
+| `https://www.youtube.com/hashtag/hashtag` | videos from the hashtag |
+| `https://www.youtube.com/hashtag/hashtag/shorts` | shorts from the hashtag |
 | `youtube.com/watch?v=videoId` | Single video data |
 | `youtube.com/watch?v=videoId&list=playlistId` | All videos in the playlist |
 | `youtube.com/playlist?list=playlistId` | All videos in the playlist |
 | `youtube.com/shorts/videoId` | Single short video data |
 
-The tool also accepts channel handles as input:
+The tool also accepts channel handles as input and hashtags:
 - `@channelname` - Processes the entire channel
+- `@hashtag` - Processes the hashtag
 
 ## 📊 Output Format
 
