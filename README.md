@@ -33,7 +33,7 @@ Unlike other YouTube data extractors on the platform, our tool offers:
 
 1. **Paste** any YouTube URL (channel, playlist, video, etc.)
 2. **Set** your preferences (optional)
-3. **Get** perfect structured data in JSON/CSV
+3. **Get** perfectly structured data in JSON/CSV
 
 ```mermaid
 sequenceDiagram
@@ -88,8 +88,8 @@ Our tool understands what you want based on URL patterns:
 | `youtube.com/@channelname` | All videos from the channel |
 | `youtube.com/@channelname/shorts` | Only shorts from the channel |
 | `youtube.com/@channelname/courses` | Only course videos from the channel |
-| `https://www.youtube.com/hashtag/hashtag` | videos from the hashtag |
-| `https://www.youtube.com/hashtag/hashtag/shorts` | shorts from the hashtag |
+| `youtube.com/hashtag/hashtag` | videos from the hashtag |
+| `youtube.com/hashtag/hashtag/shorts` | shorts from the hashtag |
 | `youtube.com/watch?v=videoId` | Single video data |
 | `youtube.com/watch?v=videoId&list=playlistId` | All videos in the playlist |
 | `youtube.com/playlist?list=playlistId` | All videos in the playlist |
