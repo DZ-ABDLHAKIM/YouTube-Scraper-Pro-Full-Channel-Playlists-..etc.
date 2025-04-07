@@ -5,7 +5,7 @@
 
 **Extract rich metadata, video information, and transcripts in seconds** - our advanced tool automatically detects and processes any YouTube URL type. Simply paste a link and get perfectly structured results.
 
-![YouTube Scraper Pro](https://raw.githubusercontent.com/DZ-ABDLHAKIM/YouTube-Transcript-Pro-Full-Channel-Playlists-..etc./refs/heads/main/all.png)
+![YouTube Scraper Pro](https://raw.githubusercontent.com/DZ-ABDLHAKIM/YouTube-Scraper-Pro-Full-Channel-Playlists-..etc./refs/heads/main/all.png)
 
 ## ✨ What Makes This Tool Unique
 
