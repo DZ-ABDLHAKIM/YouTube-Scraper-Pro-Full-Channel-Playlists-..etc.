@@ -19,9 +19,9 @@ Unlike other YouTube data extractors on the platform, our tool offers:
 - **Multi-language support** - Works with all languages available on YouTube
 - **Transcript extraction** - Supports 4 formats (SRT, VTT, TXT, XML). When available, get complete transcripts with timestamps
 - **🚀 Never Lose Progress** -  Most YouTube scrapers lose hours of work during interruptions; our tool guarantees :
- - Zero progress loss during migrations
- - A precise resume from any failure point
- - Military-grade state preservation
+  - Zero progress loss during migrations
+  - A precise resume from any failure point
+  - Military-grade state preservation
 - **Proxy-Ready Architecture** ensures uninterrupted scraping
 
 ## ⚖️ Compliance & Ethics
