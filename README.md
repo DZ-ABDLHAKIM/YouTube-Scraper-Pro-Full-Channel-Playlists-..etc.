@@ -1,5 +1,5 @@
 # 🎬 YouTube Scraper Pro
-[YouTube Scraper Pro](https://apify.com/dz_omar/youtube-transcript-pro) extracts comprehensive data from ALL YouTube content: Videos, Shorts, Live streams, Podcasts, Courses, and full Channels. Process playlists and batch requests with ease. Perfect for researchers, marketers, and content creators. It's also recognizes and processes smart keyword patterns like `#hashtag` and `@channelname`, making it even easier to target specific content from YouTube.
+[YouTube Scraper Pro](https://apify.com/dz_omar/youtube-transcript-pro) extracts comprehensive data from ALL YouTube content: Videos, Shorts, Live streams, Podcasts, Courses, and full Channels. Process playlists and batch requests with ease. Perfect for researchers, marketers, and content creators. It also recognizes and processes smart keyword patterns like `#hashtag` and `@channelname`, making it even easier to target specific content from YouTube.
 
 ## 🚀 The Intelligent Way to Extract YouTube Content
 
@@ -17,10 +17,10 @@ Unlike other YouTube data extractors on the platform, our tool offers:
 - **Configurable processing speed** - Adjust parameters to optimize performance
 - **Comprehensive metadata** - Get views, publication dates, descriptions, thumbnails, and more
 - **Multi-language support** - Works with all languages available on YouTube
-- **Transcript extraction** - Supports 4 formats (SRT, VTT, TXT, XML) When available, get complete transcripts with timestamps
-- **🚀 Never Lose Progress** -  Most YouTube scrapers lose hours of work during interruptions our tool guarantees:  :
+- **Transcript extraction** - Supports 4 formats (SRT, VTT, TXT, XML). When available, get complete transcripts with timestamps
+- **🚀 Never Lose Progress** -  Most YouTube scrapers lose hours of work during interruptions; our tool guarantees :
  - Zero progress loss during migrations
- - Precise resume from any failure point
+ - A precise resume from any failure point
  - Military-grade state preservation
 - **Proxy-Ready Architecture** ensures uninterrupted scraping
 
@@ -42,7 +42,7 @@ Unlike other YouTube data extractors on the platform, our tool offers:
 |---------|---------|
 | 🧠 **Smart URL Detection** | Automatically identifies the content type from URL patterns |
 | ⚙️ **Adjustable Performance** | Configure processing speed to match your needs |
-| 🌐 **Universal Compatibility** | Works with videos, shorts, playlists, channels, courses, live streams, hashtag |
+| 🌐 **Universal Compatibility** | Works with videos, shorts, playlists, channels, courses, live streams, hashtags |
 | 📊 **Rich Metadata** | Captures comprehensive video information |
 | 🔍 **Precision Extraction** | Accurately retrieves video data and optional transcripts |
 | 🛡️ **Reliable Performance** | Built-in retry mechanisms and configurable delay settings |
@@ -194,15 +194,15 @@ Our state management system tracks:
 ### 🚨 Fault Recovery Scenarios
 
 **Case 1: Platform Migration**
-1. System detects impending migration
+1. The system detects impending migration
 2. Saves complete state (takes <100ms)
 3. Automatically reboots when available
-4. Resumes from exact video being processed
+4. Resumes from the exact video being processed
 
 **Case 2: Network Failure**
 1. Exponential backoff retry (3 attempts)
 2. Preserves all successfully processed data
-3. Logs precise failure point
+3. Logs the precise failure point
 4. Provides resume instructions
 
 
@@ -342,7 +342,7 @@ Extract data from all videos on a channel to:
 For courses and tutorials:
 - Convert video lessons to searchable text via transcripts
 - Create study guides from video content
-- Archive educational content in structured format
+- Archive educational content in a structured format
 
 ### Content Repurposing
 Transform video content into:
@@ -499,7 +499,7 @@ To access the API using Node.js, use the `apify-client` NPM package. To access t
 
 **Q : Is it legal to scrape data from YouTube?**  
 A : Scraping YouTube is legal if you adhere to copyright and personal data regulations. This scraper deals with cookies and privacy consent dialogs on your behalf, so be aware that the results from your YouTube scrape **might contain personal information**.  
-Personal data is protected by GDPR (EU Regulation 2016/679) and other regulations worldwide. You should not scrape personal data unless you have a legitimate reason to do so. If you're unsure whether your reason is legitimate, please consult your lawyers. You can also read Apify blog post on the [legality of web scraping](https://blog.apify.com/is-web-scraping-legal).
+Personal data is protected by GDPR (EU Regulation 2016/679) and other regulations worldwide. You should not scrape personal data unless you have a legitimate reason to do so. If you're unsure whether your reason is legitimate, please consult your lawyers. You can also read the Apify blog post on the [legality of web scraping](https://blog.apify.com/is-web-scraping-legal).
 
 **Q : Does the tool handle YouTube URL shortlinks?**  
 A : Yes, the tool uses an advanced URL and keyword parsing system that standardizes all YouTube content identifiers, including shortened URLs.
