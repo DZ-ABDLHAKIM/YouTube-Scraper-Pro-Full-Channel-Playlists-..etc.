@@ -116,8 +116,6 @@ Our tool understands what you want based on URL patterns:
 | `@channelname` | All videos from the channel |
 | `#hashtag` | Processes the hashtag |
 
-Here's a comprehensive section to add to your README that highlights your actor's superior migration handling capabilities:
-
 ---
 
 ## 🛡️ Robust Migration & Fault Handling (Unique Advantage)
