@@ -116,7 +116,6 @@ Our tool understands what you want based on URL patterns:
 | `@channelname` | All videos from the channel |
 | `#hashtag` | Processes the hashtag |
 
----
 
 ## 🛡️ Robust Migration & Fault Handling (Unique Advantage)
 
